@@ -1,0 +1,5205 @@
+fileFormatVersion: 2
+guid: 0915d8373b83db74d994ffe5385702a6
+timeCreated: 1480188937
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ZombieBrain_0
+    21300002: ZombieBrain_1
+    21300004: ZombieBrain_2
+    21300006: ZombieBrain_3
+    21300008: ZombieBrain_4
+    21300010: ZombieBrain_5
+    21300012: ZombieBrain_6
+    21300014: ZombieBrain_7
+    21300016: ZombieBrain_8
+    21300018: ZombieBrain_9
+    21300020: ZombieBrain_10
+    21300022: ZombieBrain_11
+    21300024: ZombieBrain_12
+    21300026: ZombieBrain_13
+    21300028: ZombieBrain_14
+    21300030: ZombieBrain_15
+    21300032: ZombieBrain_16
+    21300034: ZombieBrain_17
+    21300036: ZombieBrain_18
+    21300038: ZombieBrain_19
+    21300040: ZombieBrain_20
+    21300042: ZombieBrain_21
+    21300044: ZombieBrain_22
+    21300046: ZombieBrain_23
+    21300048: ZombieBrain_24
+    21300050: ZombieBrain_25
+    21300052: ZombieBrain_26
+    21300054: ZombieBrain_27
+    21300056: ZombieBrain_28
+    21300058: ZombieBrain_29
+    21300060: ZombieBrain_30
+    21300062: ZombieBrain_31
+    21300064: ZombieBrain_32
+    21300066: ZombieBrain_33
+    21300068: ZombieBrain_34
+    21300070: ZombieBrain_35
+    21300072: ZombieBrain_36
+    21300074: ZombieBrain_37
+    21300076: ZombieBrain_38
+    21300078: ZombieBrain_39
+    21300080: ZombieBrain_40
+    21300082: ZombieBrain_41
+    21300084: ZombieBrain_42
+    21300086: ZombieBrain_43
+    21300088: ZombieBrain_44
+    21300090: ZombieBrain_45
+    21300092: ZombieBrain_46
+    21300094: ZombieBrain_47
+    21300096: ZombieBrain_48
+    21300098: ZombieBrain_49
+    21300100: ZombieBrain_50
+    21300102: ZombieBrain_51
+    21300104: ZombieBrain_52
+    21300106: ZombieBrain_53
+    21300108: ZombieBrain_54
+    21300110: ZombieBrain_55
+    21300112: ZombieBrain_56
+    21300114: ZombieBrain_57
+    21300116: ZombieBrain_58
+    21300118: ZombieBrain_59
+    21300120: ZombieBrain_60
+    21300122: ZombieBrain_61
+    21300124: ZombieBrain_62
+    21300126: ZombieBrain_63
+    21300128: ZombieBrain_64
+    21300130: ZombieBrain_65
+    21300132: ZombieBrain_66
+    21300134: ZombieBrain_67
+    21300136: ZombieBrain_68
+    21300138: ZombieBrain_69
+    21300140: ZombieBrain_70
+    21300142: ZombieBrain_71
+    21300144: ZombieBrain_72
+    21300146: ZombieBrain_73
+    21300148: ZombieBrain_74
+    21300150: ZombieBrain_75
+    21300152: ZombieBrain_76
+    21300154: ZombieBrain_77
+    21300156: ZombieBrain_78
+    21300158: ZombieBrain_79
+    21300160: ZombieBrain_80
+    21300162: ZombieBrain_81
+    21300164: ZombieBrain_82
+    21300166: ZombieBrain_83
+    21300168: ZombieBrain_84
+    21300170: ZombieBrain_85
+    21300172: ZombieBrain_86
+    21300174: ZombieBrain_87
+    21300176: ZombieBrain_88
+    21300178: ZombieBrain_89
+    21300180: ZombieBrain_90
+    21300182: ZombieBrain_91
+    21300184: ZombieBrain_92
+    21300186: ZombieBrain_93
+    21300188: ZombieBrain_94
+    21300190: ZombieBrain_95
+    21300192: ZombieBrain_96
+    21300194: ZombieBrain_97
+    21300196: ZombieBrain_98
+    21300198: ZombieBrain_99
+    21300200: ZombieBrain_100
+    21300202: ZombieBrain_101
+    21300204: ZombieBrain_102
+    21300206: ZombieBrain_103
+    21300208: ZombieBrain_104
+    21300210: ZombieBrain_105
+    21300212: ZombieBrain_106
+    21300214: ZombieBrain_107
+    21300216: ZombieBrain_108
+    21300218: ZombieBrain_109
+    21300220: ZombieBrain_110
+    21300222: ZombieBrain_111
+    21300224: ZombieBrain_112
+    21300226: ZombieBrain_113
+    21300228: ZombieBrain_114
+    21300230: ZombieBrain_115
+    21300232: ZombieBrain_116
+    21300234: ZombieBrain_117
+    21300236: ZombieBrain_118
+    21300238: ZombieBrain_119
+    21300240: ZombieBrain_120
+    21300242: ZombieBrain_121
+    21300244: ZombieBrain_122
+    21300246: ZombieBrain_123
+    21300248: ZombieBrain_124
+    21300250: ZombieBrain_125
+    21300252: ZombieBrain_126
+    21300254: ZombieBrain_127
+    21300256: ZombieBrain_128
+    21300258: ZombieBrain_129
+    21300260: ZombieBrain_130
+    21300262: ZombieBrain_131
+    21300264: ZombieBrain_132
+    21300266: ZombieBrain_133
+    21300268: ZombieBrain_134
+    21300270: ZombieBrain_135
+    21300272: ZombieBrain_136
+    21300274: ZombieBrain_137
+    21300276: ZombieBrain_138
+    21300278: ZombieBrain_139
+    21300280: ZombieBrain_140
+    21300282: ZombieBrain_141
+    21300284: ZombieBrain_142
+    21300286: ZombieBrain_143
+    21300288: ZombieBrain_144
+    21300290: ZombieBrain_145
+    21300292: ZombieBrain_146
+    21300294: ZombieBrain_147
+    21300296: ZombieBrain_148
+    21300298: ZombieBrain_149
+    21300300: ZombieBrain_150
+    21300302: ZombieBrain_151
+    21300304: ZombieBrain_152
+    21300306: ZombieBrain_153
+    21300308: ZombieBrain_154
+    21300310: ZombieBrain_155
+    21300312: ZombieBrain_156
+    21300314: ZombieBrain_157
+    21300316: ZombieBrain_158
+    21300318: ZombieBrain_159
+    21300320: ZombieBrain_160
+    21300322: ZombieBrain_161
+    21300324: ZombieBrain_162
+    21300326: ZombieBrain_163
+    21300328: ZombieBrain_164
+    21300330: ZombieBrain_165
+    21300332: ZombieBrain_166
+    21300334: ZombieBrain_167
+    21300336: ZombieBrain_168
+    21300338: ZombieBrain_169
+    21300340: ZombieBrain_170
+    21300342: ZombieBrain_171
+    21300344: ZombieBrain_172
+    21300346: ZombieBrain_173
+    21300348: ZombieBrain_174
+    21300350: ZombieBrain_175
+    21300352: ZombieBrain_176
+    21300354: ZombieBrain_177
+    21300356: ZombieBrain_178
+    21300358: ZombieBrain_179
+    21300360: ZombieBrain_180
+    21300362: ZombieBrain_181
+    21300364: ZombieBrain_182
+    21300366: ZombieBrain_183
+    21300368: ZombieBrain_184
+    21300370: ZombieBrain_185
+    21300372: ZombieBrain_186
+    21300374: ZombieBrain_187
+    21300376: ZombieBrain_188
+    21300378: ZombieBrain_189
+    21300380: ZombieBrain_190
+    21300382: ZombieBrain_191
+    21300384: ZombieBrain_192
+    21300386: ZombieBrain_193
+    21300388: ZombieBrain_194
+    21300390: ZombieBrain_195
+    21300392: ZombieBrain_196
+    21300394: ZombieBrain_197
+    21300396: ZombieBrain_198
+    21300398: ZombieBrain_199
+    21300400: ZombieBrain_200
+    21300402: ZombieBrain_201
+    21300404: ZombieBrain_202
+    21300406: ZombieBrain_203
+    21300408: ZombieBrain_204
+    21300410: ZombieBrain_205
+    21300412: ZombieBrain_206
+    21300414: ZombieBrain_207
+    21300416: ZombieBrain_208
+    21300418: ZombieBrain_209
+    21300420: ZombieBrain_210
+    21300422: ZombieBrain_211
+    21300424: ZombieBrain_212
+    21300426: ZombieBrain_213
+    21300428: ZombieBrain_214
+    21300430: ZombieBrain_215
+    21300432: ZombieBrain_216
+    21300434: ZombieBrain_217
+    21300436: ZombieBrain_218
+    21300438: ZombieBrain_219
+    21300440: ZombieBrain_220
+    21300442: ZombieBrain_221
+    21300444: ZombieBrain_222
+    21300446: ZombieBrain_223
+    21300448: ZombieBrain_224
+    21300450: ZombieBrain_225
+    21300452: ZombieBrain_226
+    21300454: ZombieBrain_227
+    21300456: ZombieBrain_228
+    21300458: ZombieBrain_229
+    21300460: ZombieBrain_230
+    21300462: ZombieBrain_231
+    21300464: ZombieBrain_232
+    21300466: ZombieBrain_233
+    21300468: ZombieBrain_234
+    21300470: ZombieBrain_235
+    21300472: ZombieBrain_236
+    21300474: ZombieBrain_237
+    21300476: w1
+    21300478: ZombieBrain_239
+    21300480: w2
+    21300482: ZombieBrain_241
+    21300484: w3
+    21300486: ZombieBrain_243
+    21300488: ZombieBrain_244
+    21300490: w5
+    21300492: ZombieBrain_246
+    21300494: w6
+    21300496: w7
+    21300498: w8
+    21300500: ZombieBrain_250
+    21300502: w9
+    21300504: w10
+    21300506: w11
+    21300508: w4
+    21300510: ZombieBrain_255
+    21300512: ZombieBrain_256
+    21300514: ZombieBrain_257
+    21300516: w13
+    21300518: ZombieBrain_259
+    21300520: w14
+    21300522: ZombieBrain_261
+    21300524: w15
+    21300526: ZombieBrain_263
+    21300528: ZombieBrain_264
+    21300530: w17
+    21300532: ZombieBrain_266
+    21300534: w18
+    21300536: w19
+    21300538: w20
+    21300540: ZombieBrain_270
+    21300542: w21
+    21300544: w22
+    21300546: w16
+    21300548: ZombieBrain_274
+    21300550: ZombieBrain_275
+    21300552: w12
+    21300554: ZombieBrain_277
+    21300556: ZombieBrain_278
+    21300558: ZombieBrain_279
+    21300560: ZombieBrain_280
+    21300562: ZombieBrain_281
+    21300564: ZombieBrain_282
+    21300566: ZombieBrain_283
+    21300568: ZombieBrain_284
+    21300570: ZombieBrain_285
+    21300572: ZombieBrain_286
+    21300574: ZombieBrain_287
+    21300576: ZombieBrain_288
+    21300578: ZombieBrain_289
+    21300580: ZombieBrain_290
+    21300582: ZombieBrain_291
+    21300584: ZombieBrain_292
+    21300586: ZombieBrain_293
+    21300588: ZombieBrain_294
+    21300590: ZombieBrain_295
+    21300592: ZombieBrain_296
+    21300594: ZombieBrain_297
+    21300596: ZombieBrain_298
+    21300598: ZombieBrain_299
+    21300600: ZombieBrain_300
+    21300602: ZombieBrain_301
+    21300604: ZombieBrain_302
+    21300606: ZombieBrain_303
+    21300608: ZombieBrain_304
+    21300610: ZombieBrain_305
+    21300612: ZombieBrain_306
+    21300614: ZombieBrain_307
+    21300616: ZombieBrain_308
+    21300618: ZombieBrain_309
+    21300620: ZombieBrain_310
+    21300622: ZombieBrain_311
+    21300624: ZombieBrain_312
+    21300626: ZombieBrain_313
+    21300628: ZombieBrain_314
+    21300630: ZombieBrain_315
+    21300632: ZombieBrain_316
+    21300634: ZombieBrain_317
+    21300636: ZombieBrain_318
+    21300638: ZombieBrain_319
+    21300640: ZombieBrain_320
+    21300642: ZombieBrain_321
+    21300644: ZombieBrain_322
+    21300646: ZombieBrain_323
+    21300648: ZombieBrain_324
+    21300650: ZombieBrain_325
+    21300652: ZombieBrain_326
+    21300654: ZombieBrain_327
+    21300656: ZombieBrain_328
+    21300658: ZombieBrain_329
+    21300660: ZombieBrain_330
+    21300662: ZombieBrain_331
+    21300664: ZombieBrain_332
+    21300666: ZombieBrain_333
+    21300668: ZombieBrain_334
+    21300670: ZombieBrain_335
+    21300672: ZombieBrain_336
+    21300674: ZombieBrain_337
+    21300676: ZombieBrain_338
+    21300678: ZombieBrain_339
+    21300680: ZombieBrain_340
+    21300682: ZombieBrain_341
+    21300684: ZombieBrain_342
+    21300686: ZombieBrain_343
+    21300688: ZombieBrain_344
+    21300690: ZombieBrain_345
+    21300692: ZombieBrain_346
+    21300694: ZombieBrain_347
+    21300696: ZombieBrain_348
+    21300698: ZombieBrain_349
+    21300700: ZombieBrain_350
+    21300702: ZombieBrain_351
+    21300704: ZombieBrain_352
+    21300706: ZombieBrain_353
+    21300708: ZombieBrain_354
+    21300710: ZombieBrain_355
+    21300712: ZombieBrain_356
+    21300714: ZombieBrain_357
+    21300716: ZombieBrain_358
+    21300718: ZombieBrain_359
+    21300720: ZombieBrain_360
+    21300722: ZombieBrain_361
+    21300724: ZombieBrain_362
+    21300726: ZombieBrain_363
+    21300728: ZombieBrain_364
+    21300730: ZombieBrain_365
+    21300732: ZombieBrain_238
+    21300734: ZombieBrain_240
+    21300736: ZombieBrain_242
+    21300738: ZombieBrain_245
+    21300740: ZombieBrain_247
+    21300742: ZombieBrain_248
+    21300744: ZombieBrain_249
+    21300746: ZombieBrain_251
+    21300748: ZombieBrain_252
+    21300750: ZombieBrain_253
+    21300752: ZombieBrain_254
+    21300754: ZombieBrain_258
+    21300756: ZombieBrain_260
+    21300758: ZombieBrain_262
+    21300760: ZombieBrain_265
+    21300762: ZombieBrain_267
+    21300764: ZombieBrain_268
+    21300766: ZombieBrain_269
+    21300768: ZombieBrain_271
+    21300770: ZombieBrain_272
+    21300772: ZombieBrain_273
+    21300774: ZombieBrain_276
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZombieBrain_0
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1016
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_1
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1016
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 971
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 971
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 971
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 971
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_6
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 971
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 971
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 971
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_9
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 971
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_10
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 971
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 971
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_12
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 971
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 951
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 953
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_15
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 953
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_16
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 953
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_17
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 953
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_18
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 953
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_19
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 953
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_20
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 951
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_21
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 953
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_22
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 951
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_23
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 953
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_24
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 953
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_25
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 899
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_26
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 899
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_27
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 899
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_28
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 899
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_29
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 899
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_30
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 899
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_31
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 899
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_32
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 883
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_33
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 885
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_34
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 885
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_35
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 885
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_36
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 885
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_37
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 835
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 835
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_39
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 835
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_40
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 835
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 835
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 835
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 835
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_44
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 835
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_45
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 835
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_46
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 835
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_47
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 835
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_48
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 835
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_49
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 835
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_50
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 835
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_51
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 835
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_52
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 814
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_53
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 816
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_54
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 816
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_55
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 816
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_56
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 816
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_57
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 767
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_58
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 767
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_59
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 767
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_60
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 767
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_61
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 767
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 767
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_63
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 767
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_64
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 767
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_65
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 767
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_66
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 767
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_67
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 767
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_68
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 767
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_69
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 736
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 736
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_71
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 690
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_72
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 740
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_73
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 736
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_74
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 744
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_75
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 744
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_76
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 744
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_77
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 744
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_78
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 744
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_79
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 729
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_80
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 737
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_81
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 736
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_82
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 690
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_83
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 734
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_84
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 729
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_85
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 690
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_86
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 690
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 732
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 732
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 730
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_90
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 690
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_91
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 690
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_92
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 690
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_93
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 690
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_94
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 690
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_95
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 690
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_96
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 690
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_97
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 690
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_98
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 690
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_99
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 690
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_100
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 607
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_101
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 607
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_102
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 607
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_103
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 607
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_104
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 631
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_105
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 632
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_106
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 649
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_107
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 650
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_108
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 657
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_109
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 646
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 607
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 607
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_112
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 607
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_113
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 607
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_114
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 607
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_115
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 607
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_116
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 607
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_117
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 607
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_118
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 607
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_119
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 607
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_120
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 607
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_121
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 645
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_122
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 633
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_123
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 550
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_124
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 550
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_125
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 550
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_126
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 550
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_127
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 550
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_128
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 550
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_129
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 507
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_130
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 507
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_131
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 507
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_132
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 507
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_133
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 507
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_134
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 522
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_135
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 507
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_136
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 520
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_137
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 506
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_138
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 507
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_139
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 507
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_140
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 508
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_141
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 508
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_142
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 506
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_143
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 505
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 241
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_145
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 444
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_146
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 444
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_147
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 472
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_148
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 458
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_149
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 479
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_150
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 470
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_151
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 464
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_152
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 466
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_153
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 467
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_154
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 444
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_155
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 463
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_156
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 453
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_157
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 463
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_158
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 444
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_159
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 453
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_160
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 457
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_161
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 446
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_162
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 447
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_163
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 445
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_164
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 446
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_165
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 448
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_166
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 448
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_167
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 447
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_168
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 454
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_169
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 450
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_170
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 458
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_171
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 454
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_172
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 447
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_173
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 445
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_174
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 456
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_175
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 444
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_176
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 450
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_177
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 445
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_178
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 449
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_179
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 390
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_180
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 405
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_181
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 418
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_182
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_183
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 406
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_184
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 412
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_185
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 405
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_186
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 405
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_187
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 401
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_188
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 401
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_189
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 402
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_190
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 405
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_191
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 404
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_192
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 400
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_193
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 400
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_194
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 394
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_195
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 374
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_196
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 374
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_197
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 374
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_198
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 397
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_199
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 392
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_200
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 389
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_201
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 398
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_202
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 374
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_203
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 401
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_204
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 397
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_205
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 374
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_206
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 387
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_207
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 390
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_208
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 393
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_209
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 388
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_210
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 396
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_211
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 374
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_212
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 394
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_213
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 394
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_214
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 374
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_215
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 374
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_216
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 373
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_217
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 374
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_218
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 374
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_219
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 374
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_220
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 387
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_221
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 384
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_222
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 383
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_223
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 374
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_224
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 374
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_225
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 374
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 374
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_227
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 374
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_228
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 352
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_229
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 352
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_230
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 352
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_231
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 351
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_232
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 352
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_233
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 352
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_234
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 352
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_235
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 351
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_236
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 352
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_237
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 352
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_238
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_239
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 271
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_240
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 271
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_241
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 271
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_242
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 329
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_243
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 271
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_244
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 271
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_245
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 271
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_246
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 330
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_247
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 325
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_248
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 320
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_249
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 271
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_250
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 272
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_251
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 329
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_252
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 272
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_253
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 326
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_254
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 321
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_255
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 307
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_256
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 271
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_257
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 184
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_258
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 184
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_259
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 184
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_260
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 242
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_261
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 184
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_262
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 184
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_263
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 184
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_264
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 243
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_265
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 238
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_266
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 233
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_267
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 184
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_268
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 184
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_269
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 241
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_270
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 184
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_271
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 238
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_272
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 229
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_273
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 234
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_274
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 220
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_275
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 184
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_276
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 184
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_277
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 97
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_278
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 97
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_279
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 97
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_280
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 152
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_281
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 97
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_282
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 97
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_283
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 150
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_284
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 97
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_285
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 14
+        width: 131
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_286
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 97
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_287
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 18
+        width: 42
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_288
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 97
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_289
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 151
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_290
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 142
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_291
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 97
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_292
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 97
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_293
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 99
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_294
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 102
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_295
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 103
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_296
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 97
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_297
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 56
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_298
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 56
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_299
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 56
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_300
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_301
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 56
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_302
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 56
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_303
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 56
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_304
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 54
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_305
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_306
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_307
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 56
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_308
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_309
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 56
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_310
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_311
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_312
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 56
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_313
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_314
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 30
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_315
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 31
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_316
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 14
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_317
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 42
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_318
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_319
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_320
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_321
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_322
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 42
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_323
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_324
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 42
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_325
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_326
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 44
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_327
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_328
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 44
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_329
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_330
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 44
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_331
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 43
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_332
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_333
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_334
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_335
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 32
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_336
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 32
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_337
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_338
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_339
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_340
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 32
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_341
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_342
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 20
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_343
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_344
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_345
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_346
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_347
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_348
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_349
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_350
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 20
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_351
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_352
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 20
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_353
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_354
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 20
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_355
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_356
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_357
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 19
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_358
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 19
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_359
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_360
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_361
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_362
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 14
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_363
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 14
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_364
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 14
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieBrain_365
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 14
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
